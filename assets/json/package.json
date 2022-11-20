@@ -7,9 +7,11 @@
         "jest-puppeteer": "^6.1.1",
         "puppeteer": "^19.2.2"
     },
+    
     "scripts": {
         "test": "jest"
     },
+
     "jest": {
         "preset": "jest-puppeteer",
         "verbose": true
